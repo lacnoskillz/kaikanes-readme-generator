@@ -50,11 +50,14 @@ function generateMarkdown(data) {
   
   ## Contributing
   ${data.contrib}
+  
   ## Tests
   To run tests run the following command:
-          ${data.test}
-  ## Questions'
-  If you have any questions about the repo open an issue or contect me directly at [${data.email}](https://google.com/). You can find more of my work at [${data.github}]('+http+').
+        
+        ${data.test}
+
+  ## Questions
+  If you have any questions about the repo open an issue or contect me directly at [${data.email}](https://google.com/). You can find more of my work at [${data.github}](https://github.com/${data.github}?tab=repositories).
 `;
 }
 
