@@ -16,4 +16,4 @@ for users to quickly create a professional README for a new project.
 #### Link
 ***
 click for walk through Video
-[click me](https://lacnoskillz.github.io/kaikanes-readme-generator/)
+[click me](https://youtu.be/zE8WqJGVUDI)
